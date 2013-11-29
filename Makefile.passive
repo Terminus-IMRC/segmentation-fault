@@ -1,0 +1,1 @@
+SRCS+=$(addprefix ./,segmentation-fault.c)
